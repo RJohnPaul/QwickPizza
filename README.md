@@ -1,60 +1,36 @@
-# QwickPizza
-![Portfolio Banner](https://github.com/RJohnPaul/QwickPizza/blob/bef28155a4ee68d6ac2f1d1d0d54d615dbdc09d0/banner_pizza.png)
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-QwickPizza is a delightful pizza-themed website built with React, Next.js, Tailwind CSS, and Preline UI. It's not just any ordinary pizza site; it showcases a wide variety of pizza options and even lets you count your pizza orders! 🍕🍕🍕
+## Getting Started
 
-## Features
+First, run the development server:
 
-- **Mouthwatering Pizza Showcase**: Explore a tempting array of pizza varieties from around the world.
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-- **Interactive Pizza Counters**: Keep track of your pizza orders with interactive plus and minus buttons for each pizza.
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- **Stunning Gradients**: The site boasts beautiful gradient backgrounds for that extra visual appeal.
+You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
 
-## Technologies Used
+This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-- React: Building interactive and dynamic user interfaces.
+## Learn More
 
-- Next.js: Enhancing performance and SEO with server-side rendering.
+To learn more about Next.js, take a look at the following resources:
 
-- Tailwind CSS: Styling the site with a utility-first approach.
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-- Preline UI: Incorporating a pre-designed UI for an elegant look.
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
+## Deploy on Vercel
 
-## Prerequisites
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Before you begin, ensure you have met the following requirements:
-
-- [Next.js](https://nextjs.org/) 
-- [TailwindCSS](https://tailwindcss.com/) installed globally
-- Basic knowledge of React and CSS
-- Optionally, familiarity with [Preline](https://preline.co/index.html) for styling
-
-## Installation
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/QwickPizza.git
-   
-2. Install project dependencies:
-
-- ```bash
-   cd QwickPizza
-   npm install
-  
-## Usage
-
-1. Start the development server:
-   ```bash
-   npm run dev
-2. Explore !
-
-3. You will see the Food Menu displayed on your mobile screen.
-## Customization
-Feel free to modify the app to suit your needs. You can change the text, experiment with styling using NativeWind classes, or add more components and features.
-## Resources
-- [Next.js](https://nextjs.org/) 
-- [TailwindCSS](https://tailwindcss.com/) 
-- [Preline](https://preline.co/index.html)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
