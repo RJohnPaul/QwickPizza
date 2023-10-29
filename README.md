@@ -1,5 +1,5 @@
 # QwickPizza
-![Portfolio Banner](https://github.com/iamjohndevboy/Hello-Native/blob/ec8229f36c19b6ce22d39fdef689783a39c3861c/Hello%20World.png)
+![Portfolio Banner](https://github.com/RJohnPaul/QwickPizza/blob/bef28155a4ee68d6ac2f1d1d0d54d615dbdc09d0/banner_pizza.png)
 
 QwickPizza is a delightful pizza-themed website built with React, Next.js, Tailwind CSS, and Preline UI. It's not just any ordinary pizza site; it showcases a wide variety of pizza options and even lets you count your pizza orders! 🍕🍕🍕
 
