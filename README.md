@@ -26,7 +26,7 @@ QwickPizza is a delightful pizza-themed website built with React, Next.js, Tailw
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/your-username/QwickPizza.git
+   git clone https://github.com/RJohnPaul/QwickPizza.git
    
 2. Install project dependencies:
 
